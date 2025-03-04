@@ -1,5 +1,7 @@
 # My-Site 🌐 | Personal Portfolio & Web Project Showcase
 
+![Website Preview](https://via.placeholder.com/1200x600?text=My-Site+Preview)  
+
 ## 🚀 Overview
 **My-Site** is a modern and responsive **personal portfolio website** designed to showcase my skills, projects, and achievements in web development. This platform serves as my professional online presence and helps connect with potential employers, collaborators, and clients.
 
@@ -13,17 +15,15 @@
 ## 🛠 Tech Stack
 - 🌐 **Frontend:** HTML, CSS
 
-## 📂 Project Structure
+## 📂 File Structure
 ```
 My-Site/
-│── index.html
-│── about.html
-│── projects.html
-│── contact.html
-│── assets/
-│   ├── css/
-│   ├── images/
-│── README.md
+│── css/            # Stylesheets
+│── images/         # Image assets
+│── README.md       # Project documentation
+│── favicon.ico     # Website icon
+│── favicon1.ico    # Alternative website icon
+│── index.html      # Main webpage
 ```
 
 ## 🚀 Live Demo
@@ -33,6 +33,9 @@ My-Site/
 📧 Email: your-email@example.com  
 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
 🐙 GitHub: [Your GitHub](https://github.com/Blackcommando101)  
+
+## 📜 License
+This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 _Star ⭐ this repository if you find it useful!_ 🚀
