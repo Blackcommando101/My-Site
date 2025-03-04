@@ -1,7 +1,5 @@
 # My-Site 🌐 | Personal Portfolio & Web Project Showcase
 
-![Website Preview](https://via.placeholder.com/1200x600?text=My-Site+Preview)  
-
 ## 🚀 Overview
 **My-Site** is a modern and responsive **personal portfolio website** designed to showcase my skills, projects, and achievements in web development. This platform serves as my professional online presence and helps connect with potential employers, collaborators, and clients.
 
