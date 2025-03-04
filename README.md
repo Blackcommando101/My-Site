@@ -13,10 +13,7 @@
 - ✅ **Contact Form** – Allows easy communication for collaborations and opportunities.
 
 ## 🛠 Tech Stack
-- 🌐 **Frontend:** HTML, CSS, JavaScript
-- 🎨 **Styling:** Bootstrap / Tailwind CSS (if applicable)
-- 🔗 **Interactivity:** jQuery & AJAX (if used)
-- 🚀 **Hosting & Deployment:** GitHub Pages
+- 🌐 **Frontend:** HTML, CSS
 
 ## 📸 Screenshots
 ![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)  
@@ -31,7 +28,6 @@ My-Site/
 │── contact.html
 │── assets/
 │   ├── css/
-│   ├── js/
 │   ├── images/
 │── README.md
 ```
@@ -43,9 +39,6 @@ My-Site/
 📧 Email: your-email@example.com  
 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
 🐙 GitHub: [Your GitHub](https://github.com/Blackcommando101)  
-
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 _Star ⭐ this repository if you find it useful!_ 🚀
