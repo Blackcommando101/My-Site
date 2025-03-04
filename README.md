@@ -13,6 +13,7 @@
 
 ## 🛠 Tech Stack
 - 🌐 **Frontend:** HTML, CSS
+- 🚀 **Hosting & Deployment:** GitHub Pages
 
 ## 📂 File Structure
 ```
