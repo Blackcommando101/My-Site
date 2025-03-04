@@ -13,10 +13,6 @@
 ## 🛠 Tech Stack
 - 🌐 **Frontend:** HTML, CSS
 
-## 📸 Screenshots
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)  
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)  
-
 ## 📂 Project Structure
 ```
 My-Site/
