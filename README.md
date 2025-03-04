@@ -30,7 +30,7 @@ My-Site/
 ## 📬 Contact
 📧 Email: razeelkapdi2003@gmail.com  
 💼 LinkedIn: [Razeel Kapdi](https://www.linkedin.com/in/razeel-kapdi-698955267)  
-🐙 GitHub: [Your GitHub](https://github.com/Blackcommando101)  
+🐙 GitHub: [Blackcommando101](https://github.com/Blackcommando101)  
 
 ---
 _Star ⭐ this repository if you find it useful!_ 🚀
